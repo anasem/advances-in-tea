@@ -1,0 +1,20 @@
+Metadata for file: simulation_results_1w
+
+time                : UTC timestamp YYYY-mm-ddTh:MM:0SZ
+ec_flux             : Flux density calculated using eddy covariance method [umol m-2 s-1]
+w_mean              : mean vertical wind velocity [m s-1]
+w_sigma             : standard deviation of vertical wind velocity [m s-1]
+L                   : Obukhov length [m]
+ustar               : friction velocity [m s-1]
+r_Tsw               : correlation coefficient between vertical wind velocity and sonic temperature.
+w_abs_mean          : mean of the absolute value of vertical wind velocity
+C_alpha             : transport asymmetry coefficient for CO2
+Ts_alpha            : transport asymmetry coefficient for sonic temperature
+alpha_analytic      : analytical value of the transport asymmetry coefficient
+flux_error          : analytical error in the flux
+zL                  : Monin-Obukhov stability parameter
+RNcov               : ratio of local covariance, time series is steady if less than 30% see (Foken, 2004), Eq. 9.4
+tea_flux_turnipseed : TEA flux calculated using the method of (Turnipseed, 2009)
+tea_flux_emad       : TEA flux calculated the method presented in the current papaer
+tea_flux_hicks      : TEA flux calculated using the concentration formula of (Hicks and Mcmillen, 1986)
+
