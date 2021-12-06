@@ -1,7 +1,7 @@
 This repository contains data and scripts needed to reproduce the figures of the
 paper
 
-## Advances in True Eddy Accumulation method: New theory, implementation, and field results
+## Advances in the True Eddy Accumulation method: New theory, implementation, and field results
 
 Currently under review in AMT  
  [![DOI:10.5194/amt-2021-319](https://img.shields.io/badge/doi-10.5194%2Famt--2021--319-blue)](https://doi.org/10.5194/amt-2021-319)
